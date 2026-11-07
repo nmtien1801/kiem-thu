@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\admin\\desktop\\kiem thu\\hoptrang\\nguyenminhtien_21044611\\classlibraryall\\unittestproject\\unittest8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\admin\\desktop\\kiem thu\\hoptrang\\nguyenminhtien_21044611\\classlibraryall\\unittestproject\\data8_ex.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\data8_ex.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\admin\\desktop\\kiem thu\\hoptrang\\nguyenminhtien_21044611\\classlibraryall\\unittestproject\\data8.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D70C238-56A5-4AFB-B6E9-A2593A9BB314}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\data8.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71400812-38E0-4A1B-AFC7-B1E88D6EC631}|ClassLibraryAll\\ClassLibraryAll.csproj|c:\\users\\admin\\desktop\\kiem thu\\hoptrang\\nguyenminhtien_21044611\\classlibraryall\\classlibraryall\\classall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71400812-38E0-4A1B-AFC7-B1E88D6EC631}|ClassLibraryAll\\ClassLibraryAll.csproj|solutionrelative:classlibraryall\\classall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassAll.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\ClassLibraryAll\\ClassAll.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAll\\ClassAll.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\ClassLibraryAll\\ClassAll.cs",
+              "RelativeToolTip": "ClassLibraryAll\\ClassAll.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAiwMwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:31:36.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data8_ex.csv",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\data8_ex.csv",
+              "RelativeDocumentMoniker": "UnitTestProject\\data8_ex.csv",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\data8_ex.csv",
+              "RelativeToolTip": "UnitTestProject\\data8_ex.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-10T10:10:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data8.csv",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\data8.csv",
+              "RelativeDocumentMoniker": "UnitTestProject\\data8.csv",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\data8.csv",
+              "RelativeToolTip": "UnitTestProject\\data8.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-10T09:03:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest8.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\UnitTest8.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTest8.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\hopTrang\\NguyenMinhTien_21044611\\ClassLibraryAll\\UnitTestProject\\UnitTest8.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTest8.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:55:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

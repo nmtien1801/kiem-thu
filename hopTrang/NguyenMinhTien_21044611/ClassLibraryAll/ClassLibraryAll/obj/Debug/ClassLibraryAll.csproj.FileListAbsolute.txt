@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\bin\Debug\ClassLibraryAll.dll
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\bin\Debug\ClassLibraryAll.pdb
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\obj\Debug\ClassLibraryAll.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\obj\Debug\ClassLibraryAll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\obj\Debug\ClassLibraryAll.dll
+C:\Users\Admin\Desktop\kiem thu\hopTrang\NguyenMinhTien_21044611\ClassLibraryAll\ClassLibraryAll\obj\Debug\ClassLibraryAll.pdb

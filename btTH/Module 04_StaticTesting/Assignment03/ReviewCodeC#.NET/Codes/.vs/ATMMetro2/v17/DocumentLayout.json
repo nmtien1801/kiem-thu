@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.unittest\\testvalidatecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|solutionrelative:atm.unittest\\testvalidatecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.unittest\\testfixtureauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|solutionrelative:atm.unittest\\testfixtureauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.unittest\\changepintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|solutionrelative:atm.unittest\\changepintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.dao\\atmdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\atmdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.unittest\\unittestteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F29-0AF6-4DEE-B2D5-016BA703D005}|ATM.UnitTest\\ATM.UnitTest.csproj|solutionrelative:atm.unittest\\unittestteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.dao\\carddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\carddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690602E8-B7B7-40E0-B31B-118849FC8546}|ATM.Common\\ATM.Common.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.common\\constparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690602E8-B7B7-40E0-B31B-118849FC8546}|ATM.Common\\ATM.Common.csproj|solutionrelative:atm.common\\constparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.entities\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|solutionrelative:atm.entities\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.entities\\atmmoneyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|solutionrelative:atm.entities\\atmmoneyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.entities\\atmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|solutionrelative:atm.entities\\atmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.entities\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|solutionrelative:atm.entities\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|c:\\users\\admin\\desktop\\kiem thu\\btth\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\atm.dao\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATMDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\ATMDAO.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\ATMDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\ATMDAO.cs",
+              "RelativeToolTip": "ATM.DAO\\ATMDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:01:09.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTestTearDown.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\UnitTestTearDown.cs",
+              "RelativeDocumentMoniker": "ATM.UnitTest\\UnitTestTearDown.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\UnitTestTearDown.cs",
+              "RelativeToolTip": "ATM.UnitTest\\UnitTestTearDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:41:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestValidateCard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\TestValidateCard.cs",
+              "RelativeDocumentMoniker": "ATM.UnitTest\\TestValidateCard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\TestValidateCard.cs",
+              "RelativeToolTip": "ATM.UnitTest\\TestValidateCard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:41:04.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\CardDAO.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\CardDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\CardDAO.cs",
+              "RelativeToolTip": "ATM.DAO\\CardDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:57.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePINTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\ChangePINTest.cs",
+              "RelativeDocumentMoniker": "ATM.UnitTest\\ChangePINTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\ChangePINTest.cs",
+              "RelativeToolTip": "ATM.UnitTest\\ChangePINTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConstParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Common\\ConstParameters.cs",
+              "RelativeDocumentMoniker": "ATM.Common\\ConstParameters.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Common\\ConstParameters.cs",
+              "RelativeToolTip": "ATM.Common\\ConstParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\CardModel.cs",
+              "RelativeDocumentMoniker": "ATM.Entities\\CardModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\CardModel.cs",
+              "RelativeToolTip": "ATM.Entities\\CardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestFixtureAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\TestFixtureAuthentication.cs",
+              "RelativeDocumentMoniker": "ATM.UnitTest\\TestFixtureAuthentication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.UnitTest\\TestFixtureAuthentication.cs",
+              "RelativeToolTip": "ATM.UnitTest\\TestFixtureAuthentication.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:36:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ATMMoneyItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\ATMMoneyItem.cs",
+              "RelativeDocumentMoniker": "ATM.Entities\\ATMMoneyItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\ATMMoneyItem.cs",
+              "RelativeToolTip": "ATM.Entities\\ATMMoneyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ATMModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\ATMModel.cs",
+              "RelativeDocumentMoniker": "ATM.Entities\\ATMModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\ATMModel.cs",
+              "RelativeToolTip": "ATM.Entities\\ATMModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:09.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\AccountModel.cs",
+              "RelativeDocumentMoniker": "ATM.Entities\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.Entities\\AccountModel.cs",
+              "RelativeToolTip": "ATM.Entities\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:39:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\CustomerData.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\CustomerData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kiem thu\\btTH\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\ATM.DAO\\CustomerData.cs",
+              "RelativeToolTip": "ATM.DAO\\CustomerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:35:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
